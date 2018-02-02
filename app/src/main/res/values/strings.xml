@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMVPSkeleton</string>
+    <string name="main_frag_title">Main Fragment</string>
+    <string name="common_actionbar">Common ActionBar</string>
+</resources>
